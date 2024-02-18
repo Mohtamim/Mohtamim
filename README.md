@@ -24,12 +24,6 @@ Web Developer and Website Security Specialist
 </a>
 <img src="https://camo.githubusercontent.com/db4e52e8225ef58d2bea074224648582e720d9f471760e7ad8b840289e70170f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d64706162656c" alt="visitors" data-canonical-src="https://komarev.com/ghpvc/?username=Mohtamim" style="max-width: 100%;">
 ### Achievements:
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<!-- Fiverr Seller Badge -->
-[![Fiverr Seller](https://widgets.fiverr.com/api/v1/seller/nayeem_bd/badge.svg)](https://www.fiverr.com/nayeem_bd)
-
-
 
 🔒 **Fixed:** 15,000+ hacked WordPress sites  
 🛡️ **Secured:** 16,500+ websites  
