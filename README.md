@@ -13,10 +13,19 @@ Certainly! You can modify the third line to make it clickable:
 * 🚀  I'm a freelance [Web Developer and Cyber Security Specialist]
 * 🔗  Connect with me on [Facebook](https://www.facebook.com/mohtamim.mn/)
 
-<a href="https://www.github.com/Mohtamim" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mohtamim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/NayeeIslam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/NayeeIslam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<!-- Add the GitHub follower badge -->
+<a href="https://www.github.com/Mohtamim" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Mohtamim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+<!-- Add the Twitter follower badge -->
+<a href="https://www.twitter.com/NayeeIslam" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/NayeeIslam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+<!-- Add the Hit Counter -->
+<img src="https://hitwebcounter.com/counter/counter.php?page=PAGE_ID&style=0033&nbdigits=5&type=page&initCount=0" title="Hit Counter" alt="Hit Counter" border="0">
+
 
 ### Skills
 
