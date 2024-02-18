@@ -23,6 +23,15 @@ Web Developer and Website Security Specialist
   <img src="https://img.shields.io/twitter/follow/NayeeIslam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 <img src="https://camo.githubusercontent.com/db4e52e8225ef58d2bea074224648582e720d9f471760e7ad8b840289e70170f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d64706162656c" alt="visitors" data-canonical-src="https://komarev.com/ghpvc/?username=Mohtamim" style="max-width: 100%;">
+**Achievements:**
+
+🔒 **Fixed:** 15,000+ hacked WordPress sites  
+🛡️ **Secured:** 16,500+ websites  
+👥 **Worked with:** 1,004 unique customers  
+⭐ **Rating:** 4.9 (941 reviews)  
+🌐 **World Domination:** 50%  
+💼 **Fiverr Seller Level:** Level 2  
+
 
 ### Skills
 
