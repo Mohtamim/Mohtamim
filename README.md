@@ -4,13 +4,14 @@
 Web Developer and Website Security Specialist
 -----------------------------------------------------------
 
+Certainly! You can modify the third line to make it clickable:
 
 * 🏢  I am currently working at <b> Trader Shark </b> as a Website Security Specialist
-* 🌍  I am located in Dhaka, Bangladesh.
-* <p>Give me a thumbs-up! &#x1F44D;</p> https://www.facebook.com/mohtamim.mn/
-* 🖥️  See my portfolio at [My Profile](http://www.linkedin.com/in/mohtamim1/)
-* ✉️  You can contact me at [mohtamimnayeem@gmail.com](mailto:mohtamimnayeem@gmail.com)
-* 🚀  I'm a freelance [Web Developer and Cyber Security Specialist]
+* 🌍  I am located in Dhaka, Bangladesh.
+* 🖥️  See my portfolio at [My Profile](http://www.linkedin.com/in/mohtamim1/)
+* ✉️  You can contact me at [mohtamimnayeem@gmail.com](mailto:mohtamimnayeem@gmail.com)
+* 🚀  I'm a freelance [Web Developer and Cyber Security Specialist]
+* 🔗  Connect with me on [Facebook](https://www.facebook.com/mohtamim.mn/)
 
 <a href="https://www.github.com/Mohtamim" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mohtamim?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/NayeeIslam" target="_blank" rel="noreferrer"><img
