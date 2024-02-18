@@ -23,9 +23,23 @@ Certainly! You can modify the third line to make it clickable:
   <img src="https://img.shields.io/twitter/follow/NayeeIslam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-<!-- Add the Hit Counter -->
-<img src="https://hitwebcounter.com/counter/counter.php?page=PAGE_ID&style=0033&nbdigits=5&type=page&initCount=0" title="Hit Counter" alt="Hit Counter" border="0">
+<!-- Simple Visitor Counter -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Get the current count from local storage or initialize it to 0
+    let count = localStorage.getItem("visitorCount") || 0;
 
+    // Display the current count
+    console.log("Visitor count: " + count);
+
+    // Increment the count and update the display
+    count++;
+    console.log("Visitor count incremented: " + count);
+
+    // Save the updated count to local storage
+    localStorage.setItem("visitorCount", count);
+  });
+</script>
 
 ### Skills
 
