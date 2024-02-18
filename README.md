@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohtamim Islam Nayeem
+![image](https://github.com/Mohtamim/Mohtamim/assets/48148171/e6e1731f-124c-449a-b242-1e3ca1424f22)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Mohtamim Islam Nayeem
 =================================================================================================================================================
 
 Web Developer and Website Security Specialist
 -----------------------------------------------------------
 
-I am a Full Stack Web Developer with 1.5+ years of experience in web development, specializing in Laravel and PHP. In addition to my web development expertise, I have 6+ years of experience in website security and malware removal. I am dedicated to delivering high-quality results for my clients and have developed a wide range of web applications, including online booking systems and inventory management systems. My skill set includes HTML5, CSS3, JavaScript, jQuery, Ajax, Bootstrap 5, Tailwind CSS, and Vue JS for frontend development, as well as MySQL and PostgreSQL for database management. I have extensive experience working with PHP, OOP PHP, and JavaScript, and have worked extensively with Laravel for backend development. I have completed several professional training programs in web application development and Laravel, and am committed to staying up-to-date on the latest trends and technologies in the IT sector.
 
+* 🏢  I am currently working at <b> Trader Shark </b> as a Website Security Specialist
 * 🌍  I am located in Dhaka, Bangladesh.
+* <p>Give me a thumbs-up! &#x1F44D;</p> https://www.facebook.com/mohtamim.mn/
 * 🖥️  See my portfolio at [My Profile](http://www.linkedin.com/in/mohtamim1/)
 * ✉️  You can contact me at [mohtamimnayeem@gmail.com](mailto:mohtamimnayeem@gmail.com)
 * 🚀  I'm a freelance [Web Developer and Cyber Security Specialist]
