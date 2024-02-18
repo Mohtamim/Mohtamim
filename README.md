@@ -23,7 +23,6 @@ Certainly! You can modify the third line to make it clickable:
   <img src="https://img.shields.io/twitter/follow/NayeeIslam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 <img src="https://camo.githubusercontent.com/db4e52e8225ef58d2bea074224648582e720d9f471760e7ad8b840289e70170f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d64706162656c" alt="visitors" data-canonical-src="https://komarev.com/ghpvc/?username=Mohtamim" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/d47f69bbf1b6f07236efbabed358d771f71f452fbd50688cd9fc3a87ae24c4b0/68747470733a2f2f6869742e79687970652e6d652f6769746875622f70726f66696c653f757365725f69643d3438313438313731" alt="visitors" data-canonical-src="https://komarev.com/ghpvc/?username=Mohtamim" style="max-width: 100%;">
 
 ### Skills
 
@@ -51,17 +50,6 @@ Certainly! You can modify the third line to make it clickable:
 
 <p align="left"> <a href="https://discord.com/users/569960402839142409" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/mohtamim.mn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mohtamim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohtamim1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NayeeIslam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mohtamim"><img src="https://github-readme-stats.vercel.app/api?username=Mohtamim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohtamim's GitHub stats" /></a>
-
-<a href="http://www.github.com/Mohtamim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohtamim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Mohtamim"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohtamim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Mohtamim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohtamim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
