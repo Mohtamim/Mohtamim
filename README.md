@@ -23,7 +23,7 @@ Certainly! You can modify the third line to make it clickable:
   <img src="https://img.shields.io/twitter/follow/NayeeIslam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-![](https://hit.yhype.me/github/profile?user_id=48148171)
+<img src="https://hit.yhype.me/github/profile?user_id=48148171" alt="GitHub Profile Hit Counter">
 
 
 ### Skills
