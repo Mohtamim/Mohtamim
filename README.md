@@ -28,11 +28,11 @@ Web Developer and Website Security Specialist
  **Achievements:**
 
 
-🔒 **Fixed:** 15,000+ hacked WordPress sites  
+🔒 **Fixed:** 20,000+ hacked WordPress sites  
 🛡️ **Secured:** 16,500+ websites  
-👥 **Worked with:** 1,004 unique customers  
-⭐ **Rating:** 4.9 (941 reviews)  
-🌐 **World Domination:** 50%  
+👥 **Worked with:** 1100+ unique customers  
+⭐ **Rating:** 4.9 (1100+ reviews)  
+🌐 **World Domination:** 55%  
 💼 **Fiverr Seller Level:** Level 2  
 
 
